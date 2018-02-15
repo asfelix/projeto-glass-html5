@@ -3,7 +3,7 @@ Projeto do site "Google Glass" feito durante o [curso de HTML5](https://www.curs
 
 ## Capturas de tela do projeto atual
 ![Home](index.png)
-![Especificações](especificoes.png)
+![Especificações](especificacoes.png)
 ![Fotos](fotos.png)
 ![Multimídia](multimidia.png)
 ![Fale Conosco](contato.png)
